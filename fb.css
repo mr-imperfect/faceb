@@ -71,9 +71,55 @@ font-size:13px;
     height: 500px;
 }
 .image{
-    width: 500px;
+    width: 525px;
+    margin-bottom: 500px;
+     margin-left: 65px;
 }
 .para{
     font-weight: bold;
-    font-size: 21px;
+    font-size: 20px;
+    color: #0e385f;
+    margin-left: 55px;
+    
 }
+.h1{
+    font-family: inherit;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+
+}
+.p{
+    font-size: 20px;
+    line-height: 0;
+    font-weight: normal;
+
+}
+.fname{
+    width: 172px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    margin-left: 3px;
+}
+.ename{
+    width: 172px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    margin-left: 3px;
+    width: 375px;
+    margin-top: 8px;
+    
+}
+#h3{
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 3px;
+}
+    
